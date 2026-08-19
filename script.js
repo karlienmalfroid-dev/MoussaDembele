@@ -69,7 +69,6 @@ const translations = {
 
     "gallery.eyebrow": "On stage",
     "gallery.title": "Gallery",
-    "gallery.credit": "Photography: © rudi delhaye · Ong Elly Photography",
 
     "contact.eyebrow": "Get in touch",
     "contact.title": "Book Moussa for your event",
@@ -146,7 +145,6 @@ const translations = {
 
     "gallery.eyebrow": "Op het podium",
     "gallery.title": "Galerij",
-    "gallery.credit": "Fotografie: © rudi delhaye · Ong Elly Photography",
 
     "contact.eyebrow": "Neem contact op",
     "contact.title": "Boek Moussa voor jouw evenement",
@@ -223,7 +221,6 @@ const translations = {
 
     "gallery.eyebrow": "Sur scène",
     "gallery.title": "Galerie",
-    "gallery.credit": "Photographie : © rudi delhaye · Ong Elly Photography",
 
     "contact.eyebrow": "Contact",
     "contact.title": "Réservez Moussa pour votre événement",

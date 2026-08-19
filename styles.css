@@ -388,13 +388,6 @@ p{margin:0 0 1em;}
   transition:filter .3s ease, transform .3s ease;
 }
 .gallery-grid img:hover{filter:grayscale(0);transform:translateY(-4px);}
-.photo-credit{
-  font-family:var(--font-utility);
-  font-size:.72rem;
-  color:var(--text-dark-soft);
-  letter-spacing:.03em;
-  margin-top:20px;
-}
 
 /* ================= CONTACT ================= */
 .contact{
