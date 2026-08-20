@@ -6,7 +6,6 @@ const translations = {
     "nav.bio": "Bio",
     "nav.projects": "Projects",
     "nav.courses": "Courses",
-    "nav.yelemani": "Yelemani Trio",
     "nav.gallery": "Gallery",
     "nav.book": "Book me",
 
@@ -44,9 +43,6 @@ const translations = {
     "proj.perc.title": "Solo Percussion",
     "proj.perc.desc": "Djembé, calabash and talking drum — high-energy rhythm for festivals, walkabouts, workshops and drum circles.",
 
-    "proj.yelemani.tag": "TRIO",
-    "proj.yelemani.desc": "Moussa's core trio project — kora, balafon and song woven together with a full band sound for stages large and small.",
-    "proj.yelemani.link": "Meet the trio →",
 
     "proj.lassana.tag": "DUO",
     "proj.lassana.desc": "A duo with Lassana Diabaté, internationally acclaimed balafón virtuoso, composer and culture-bearer from a renowned Guinean griot family, whose collaborations span jazz, blues and Latin music and include several Grammy-nominated albums.",
@@ -55,7 +51,6 @@ const translations = {
     "proj.samfi.desc": "Samfi — meaning \"honour your loved one\" — carries Burkinabé rhythms and stories into danceable, self-styled grooves. Moussa Dembélé (kora, balafon &amp; vocals), Arno Grootaers (drums) and Sander Huys (bass).",
 
     "yelemani.eyebrow": "Trio · since 2014",
-    "yelemani.title": "Yelemani Trio",
     "yelemani.p1": "Yelemani — Burkinabé for \"change\" — brings together Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (Belgium) and Giovanni Barcella (Italy). Formed in March 2014 out of a shared love for African and improvised music, the trio weaves balafon, kora, n'goni, tama and vocals together with guitar, alto horn, drums and electronics into a sound rooted in Burkinabé tradition and open to jazz, rock, psychedelia and free improvisation.",
     "yelemani.p2": "All three musicians bring experience from acclaimed groups — among them Banquets Nomades, Moker, BackBack, Charles Gayle Trio and Va Fan Fahre — and the trio regularly performs with guest artists such as singer and kora player Wassa Kouyaté (Mali) and dancer Luc Sanou (Burkina Faso).",
     "yelemani.m1": "balafon, djembé, kora, n'goni, tama, bara",
@@ -94,7 +89,6 @@ const translations = {
     "nav.bio": "Bio",
     "nav.projects": "Projecten",
     "nav.courses": "Cursussen",
-    "nav.yelemani": "Yelemani Trio",
     "nav.gallery": "Galerij",
     "nav.book": "Boek mij",
 
@@ -132,10 +126,6 @@ const translations = {
     "proj.perc.title": "Solo Percussie",
     "proj.perc.desc": "Djembé, kalebas en talking drum — energieke ritmes voor festivals, walkabouts, workshops en drumcirkels.",
 
-    "proj.yelemani.tag": "TRIO",
-    "proj.yelemani.desc": "Het kernproject van Moussa — kora, balafoon en zang verweven tot een volwaardig bandgeluid, voor grote en kleine podia.",
-    "proj.yelemani.link": "Ontdek het trio →",
-
     "proj.lassana.tag": "DUO",
     "proj.lassana.desc": "Een duo met Lassana Diabaté, internationaal geroemd balafón-virtuoos, componist en cultuurdrager uit een gerenommeerde Guineese griot-familie, die samenwerkte binnen jazz, blues en Latin music en meewerkte aan meerdere voor de Grammy genomineerde albums.",
 
@@ -143,7 +133,6 @@ const translations = {
     "proj.samfi.desc": "SAMFI, wat zoveel betekent als \"eer je geliefde\", brengt Burkinese ritmes en verhalen op eigenzinnige, dansbare grooves. Moussa Dembélé (kora, balafoon &amp; zang), Arno Grootaers (drums) en Sander Huys (bas).",
 
     "yelemani.eyebrow": "Trio · sinds 2014",
-    "yelemani.title": "Yelemani Trio",
     "yelemani.p1": "Yelemani — Burkinees voor 'verandering' — bestaat uit Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (België) en Giovanni Barcella (Italië). De groep ontstond in maart 2014 uit een gedeelde liefde voor Afrikaanse en geïmproviseerde muziek en verweeft balafoon, kora, n'goni, tama en zang met gitaar, althoorn, drums en elektronica tot een klank die geworteld blijft in de Burkinese traditie en tegelijk jazz, rock, psychedelica en vrije improvisatie omarmt.",
     "yelemani.p2": "Alle drie de muzikanten brachten ervaring mee uit gerenommeerde projecten — waaronder Banquets Nomades, Moker, BackBack, Charles Gayle Trio en Va Fan Fahre — en het trio treedt geregeld op met gastmuzikanten zoals zangeres en kora-speelster Wassa Kouyaté (Mali) en danser Luc Sanou (Burkina Faso).",
     "yelemani.m1": "balafoon, djembé, kora, n'goni, tama, bara",
@@ -182,7 +171,6 @@ const translations = {
     "nav.bio": "Bio",
     "nav.projects": "Projets",
     "nav.courses": "Cours",
-    "nav.yelemani": "Yelemani Trio",
     "nav.gallery": "Galerie",
     "nav.book": "Me réserver",
 
@@ -220,10 +208,6 @@ const translations = {
     "proj.perc.title": "Percussions Solo",
     "proj.perc.desc": "Djembé, calebasse et talking drum — un rythme énergique pour festivals, déambulations, ateliers et cercles de tambours.",
 
-    "proj.yelemani.tag": "TRIO",
-    "proj.yelemani.desc": "Le projet phare de Moussa — kora, balafon et chant tissés en un véritable son de groupe, pour petites et grandes scènes.",
-    "proj.yelemani.link": "Découvrir le trio →",
-
     "proj.lassana.tag": "DUO",
     "proj.lassana.desc": "Un duo avec Lassana Diabaté, virtuose du balafón de renommée internationale, compositeur et porteur de culture issu d'une célèbre famille griotte de Guinée, dont les collaborations couvrent le jazz, le blues et les musiques latines, et incluent plusieurs albums nommés aux Grammy Awards.",
 
@@ -231,7 +215,6 @@ const translations = {
     "proj.samfi.desc": "Samfi — qui signifie « honore ton être cher » — porte les rythmes et récits burkinabè vers des grooves dansants et singuliers. Moussa Dembélé (kora, balafon &amp; chant), Arno Grootaers (batterie) et Sander Huys (basse).",
 
     "yelemani.eyebrow": "Trio · depuis 2014",
-    "yelemani.title": "Yelemani Trio",
     "yelemani.p1": "Yelemani — qui signifie « changement » en burkinabè — réunit Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (Belgique) et Giovanni Barcella (Italie). Formé en mars 2014 autour d'un amour commun pour les musiques africaines et improvisées, le trio tisse balafon, kora, n'goni, tama et chant avec guitare, cor alto, batterie et électronique en un son ancré dans la tradition burkinabè tout en s'ouvrant au jazz, au rock, au psychédélisme et à l'improvisation libre.",
     "yelemani.p2": "Les trois musiciens ont fait leurs armes au sein de projets reconnus — parmi lesquels Banquets Nomades, Moker, BackBack, Charles Gayle Trio et Va Fan Fahre — et le trio se produit régulièrement avec des artistes invités comme la chanteuse et joueuse de kora Wassa Kouyaté (Mali) et le danseur Luc Sanou (Burkina Faso).",
     "yelemani.m1": "balafon, djembé, kora, n'goni, tama, bara",
