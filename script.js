@@ -49,6 +49,7 @@ const translations = {
 
     "proj.samfi.tag": "TRIO — SAMFI",
     "proj.samfi.desc": "Samfi — meaning \"honour your loved one\" — carries Burkinabé rhythms and stories into danceable, self-styled grooves. Moussa Dembélé (kora, balafon &amp; vocals), Arno Grootaers (drums) and Sander Huys (bass).",
+    "proj.samfi.video_link": "Watch Samfi live on Facebook →",
 
     "yelemani.eyebrow": "Trio · since 2014",
     "yelemani.p1": "Yelemani — Burkinabé for \"change\" — brings together Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (Belgium) and Giovanni Barcella (Italy). Formed in March 2014 out of a shared love for African and improvised music, the trio weaves balafon, kora, n'goni, tama and vocals together with guitar, alto horn, drums and electronics into a sound rooted in Burkinabé tradition and open to jazz, rock, psychedelia and free improvisation.",
@@ -131,6 +132,7 @@ const translations = {
 
     "proj.samfi.tag": "TRIO — SAMFI",
     "proj.samfi.desc": "SAMFI, wat zoveel betekent als \"eer je geliefde\", brengt Burkinese ritmes en verhalen op eigenzinnige, dansbare grooves. Moussa Dembélé (kora, balafoon &amp; zang), Arno Grootaers (drums) en Sander Huys (bas).",
+    "proj.samfi.video_link": "Bekijk Samfi live op Facebook →",
 
     "yelemani.eyebrow": "Trio · sinds 2014",
     "yelemani.p1": "Yelemani — Burkinees voor 'verandering' — bestaat uit Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (België) en Giovanni Barcella (Italië). De groep ontstond in maart 2014 uit een gedeelde liefde voor Afrikaanse en geïmproviseerde muziek en verweeft balafoon, kora, n'goni, tama en zang met gitaar, althoorn, drums en elektronica tot een klank die geworteld blijft in de Burkinese traditie en tegelijk jazz, rock, psychedelica en vrije improvisatie omarmt.",
@@ -213,6 +215,7 @@ const translations = {
 
     "proj.samfi.tag": "TRIO — SAMFI",
     "proj.samfi.desc": "Samfi — qui signifie « honore ton être cher » — porte les rythmes et récits burkinabè vers des grooves dansants et singuliers. Moussa Dembélé (kora, balafon &amp; chant), Arno Grootaers (batterie) et Sander Huys (basse).",
+    "proj.samfi.video_link": "Voir Samfi en concert sur Facebook →",
 
     "yelemani.eyebrow": "Trio · depuis 2014",
     "yelemani.p1": "Yelemani — qui signifie « changement » en burkinabè — réunit Moussa Dembélé (Burkina Faso), Mathias Van de Wiele (Belgique) et Giovanni Barcella (Italie). Formé en mars 2014 autour d'un amour commun pour les musiques africaines et improvisées, le trio tisse balafon, kora, n'goni, tama et chant avec guitare, cor alto, batterie et électronique en un son ancré dans la tradition burkinabè tout en s'ouvrant au jazz, au rock, au psychédélisme et à l'improvisation libre.",

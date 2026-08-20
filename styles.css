@@ -336,7 +336,6 @@ p{margin:0 0 1em;}
   color:var(--indigo);
 }
 .card-link:hover{color:var(--rope);}
-.card-video{padding:0 20px 14px;}
 .card-video-list{
   display:flex;
   flex-direction:column;
