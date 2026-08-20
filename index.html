@@ -26,7 +26,17 @@
 
     <nav class="main-nav" id="mainNav">
       <a href="#bio" data-i18n="nav.bio">Bio</a>
-      <a href="#projects" data-i18n="nav.projects">Projects</a>
+      <div class="nav-item">
+        <a href="#projects" data-i18n="nav.projects">Projects</a>
+        <div class="nav-dropdown">
+          <a href="#proj-kora" data-i18n="proj.kora.title">Solo Kora</a>
+          <a href="#proj-balafon" data-i18n="proj.bala.title">Solo Balafon</a>
+          <a href="#proj-percussion" data-i18n="proj.perc.title">Solo Percussion</a>
+          <a href="#proj-yelemani">Yelemani Trio</a>
+          <a href="#proj-lassana">Moussa Dembélé &amp; Lassana Diabaté</a>
+          <a href="#proj-samfi">Samfi</a>
+        </div>
+      </div>
       <a href="#courses" data-i18n="nav.courses">Courses</a>
       <a href="#gallery" data-i18n="nav.gallery">Gallery</a>
       <a href="#contact" class="nav-cta" data-i18n="nav.book">Book me</a>
@@ -115,7 +125,7 @@
 
   <div class="project-grid">
 
-    <article class="project-card">
+    <article class="project-card" id="proj-kora">
       <div class="project-media"><img src="assets/moussa-dembele-solo-kora-performance.jpg" alt="Moussa Dembélé performing solo kora" loading="lazy"></div>
       <p class="project-tag" data-i18n="proj.kora.tag">SOLO — 21-STRING KORA</p>
       <h3 data-i18n="proj.kora.title">Solo Kora</h3>
@@ -123,7 +133,7 @@
       <a href="#contact" class="card-link" data-i18n="projects.book_link">Book this project →</a>
     </article>
 
-    <article class="project-card">
+    <article class="project-card" id="proj-balafon">
       <div class="project-media"><img src="assets/moussa-dembele-solo-balafon-performance.jpg" alt="Moussa Dembélé performing solo balafon" loading="lazy"></div>
       <p class="project-tag" data-i18n="proj.bala.tag">SOLO — BALAFON</p>
       <h3 data-i18n="proj.bala.title">Solo Balafon</h3>
@@ -131,7 +141,7 @@
       <a href="#contact" class="card-link" data-i18n="projects.book_link">Book this project →</a>
     </article>
 
-    <article class="project-card">
+    <article class="project-card" id="proj-percussion">
       <div class="project-media"><img src="assets/moussa-dembele-djembe-drum-circle.jpg" alt="Moussa Dembélé playing djembe in a drum circle" loading="lazy"></div>
       <p class="project-tag" data-i18n="proj.perc.tag">SOLO — PERCUSSION</p>
       <h3 data-i18n="proj.perc.title">Solo Percussion</h3>
@@ -139,7 +149,7 @@
       <a href="#contact" class="card-link" data-i18n="projects.book_link">Book this project →</a>
     </article>
 
-    <article class="project-card project-card-wide">
+    <article class="project-card project-card-wide" id="proj-yelemani">
       <div class="project-card-top">
         <div class="project-media"><img src="assets/moussa-dembele-yelemani-trio-portrait.jpg" alt="Yelemani Trio band portrait — Moussa Dembélé, Mathias Van de Wiele and Giovanni Barcella" loading="lazy"></div>
         <div>
@@ -189,7 +199,7 @@
       <a href="https://www.facebook.com/YelemaniTrio/" target="_blank" rel="noopener" class="card-link" data-i18n="projects.fb_link">View on Facebook →</a>
     </article>
 
-    <article class="project-card">
+    <article class="project-card" id="proj-lassana">
       <div class="project-media"><img src="assets/moussa-dembele-lassana-diabate-duo.jpg" alt="Moussa Dembélé performing kora alongside another musician" loading="lazy"></div>
       <p class="project-tag" data-i18n="proj.lassana.tag">DUO</p>
       <h3>Moussa Dembélé &amp; Lassana Diabaté</h3>
@@ -201,7 +211,7 @@
       <a href="#contact" class="card-link" data-i18n="projects.book_link">Book this project →</a>
     </article>
 
-    <article class="project-card">
+    <article class="project-card" id="proj-samfi">
       <div class="project-media"><img src="assets/moussa-dembele-samfi-trio-live.jpg" alt="Moussa Dembélé singing on stage with Samfi" loading="lazy"></div>
       <p class="project-tag" data-i18n="proj.samfi.tag">TRIO — SAMFI</p>
       <h3>Samfi</h3>
