@@ -107,7 +107,7 @@ const translations = {
 
     "proj.kora.tag": "SOLO — KORA MET 21 SNAREN",
     "proj.kora.title": "Solo Kora",
-    "proj.kora.desc": "Een intieme soloset op de West-Afrikaanse harpluit — meditatief, melodieus, ideaal voor recepties, plechtigheden en luisterzalen.",
+    "proj.kora.desc": "Een intieme soloset op de West-Afrikaanse harpluit — meditatief, melodieus, ideaal voor recepties, feesten en luisterzalen.",
 
     "proj.bala.tag": "SOLO — BALAFOON",
     "proj.bala.title": "Solo Balafoon",
@@ -143,7 +143,7 @@ const translations = {
 
     "contact.eyebrow": "Neem contact op",
     "contact.title": "Boek Moussa voor jouw evenement",
-    "contact.sub": "Voor concerten, plechtigheden, festivals, workshops of cursussen — telefonisch bereik je Moussa het snelst.",
+    "contact.sub": "Voor concerten, feesten, festivals, workshops of cursussen — telefonisch bereik je Moussa het snelst.",
     "contact.phone_label": "Bel of WhatsApp",
     "contact.email_label": "E-mail",
     "contact.follow": "Volg mee"
