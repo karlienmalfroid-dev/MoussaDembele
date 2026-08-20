@@ -482,24 +482,7 @@ p{margin:0 0 1em;}
   padding-top:56px;
 }
 .courses-private h3{color:var(--ivory);font-size:clamp(1.5rem,2.6vw,2rem);}
-.courses-private p{color:var(--parchment-soft);max-width:56ch;}
-.courses-private-tags{
-  display:flex;
-  flex-wrap:wrap;
-  gap:10px;
-  margin:1.2em 0 1.6em;
-}
-.courses-private-tags span{
-  font-family:var(--font-utility);
-  font-size:.72rem;
-  font-weight:600;
-  text-transform:uppercase;
-  letter-spacing:.06em;
-  color:var(--ochre);
-  border:1px solid rgba(216,154,44,.4);
-  border-radius:20px;
-  padding:6px 14px;
-}
+.courses-private p{color:var(--parchment-soft);max-width:56ch;margin-bottom:1.6em;}
 
 /* ================= GALLERY ================= */
 .gallery{max-width:var(--max);margin:0 auto;padding:88px 24px 40px;}

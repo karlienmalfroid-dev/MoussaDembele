@@ -68,9 +68,6 @@ const translations = {
     "private.eyebrow": "On location",
     "private.title": "Private djembé workshop",
     "private.desc": "Bring the drum circle to you — a hands-on djembé workshop at your event, company or school. Tailored to the group, no experience needed, all instruments provided.",
-    "private.tag1": "Companies",
-    "private.tag2": "Schools",
-    "private.tag3": "Events",
     "private.cta": "Book a workshop →",
 
     "gallery.eyebrow": "On stage",
@@ -149,9 +146,6 @@ const translations = {
     "private.eyebrow": "Op locatie",
     "private.title": "Privé djembé-workshop",
     "private.desc": "Breng de drumkring naar jou toe — een interactieve djembé-workshop op maat, bij jouw evenement, bedrijf of school. Geen ervaring nodig, alle instrumenten worden voorzien.",
-    "private.tag1": "Bedrijven",
-    "private.tag2": "Scholen",
-    "private.tag3": "Evenementen",
     "private.cta": "Boek een workshop →",
 
     "gallery.eyebrow": "Op het podium",
@@ -230,9 +224,6 @@ const translations = {
     "private.eyebrow": "Sur place",
     "private.title": "Atelier djembé privé",
     "private.desc": "Le cercle de tambours vient à vous — un atelier djembé participatif et sur mesure, pour votre événement, entreprise ou école. Aucune expérience requise, tous les instruments sont fournis.",
-    "private.tag1": "Entreprises",
-    "private.tag2": "Écoles",
-    "private.tag3": "Événements",
     "private.cta": "Réserver un atelier →",
 
     "gallery.eyebrow": "Sur scène",

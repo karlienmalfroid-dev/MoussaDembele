@@ -37,7 +37,13 @@
           <a href="#proj-samfi">Samfi</a>
         </div>
       </div>
-      <a href="#courses" data-i18n="nav.courses">Courses</a>
+      <div class="nav-item">
+        <a href="#courses" data-i18n="nav.courses">Courses</a>
+        <div class="nav-dropdown">
+          <a href="#course-weekly" data-i18n="courses.title">Djembé course in Gent</a>
+          <a href="#course-private" data-i18n="private.title">Private djembé workshop</a>
+        </div>
+      </div>
       <a href="#gallery" data-i18n="nav.gallery">Gallery</a>
       <a href="#contact" class="nav-cta" data-i18n="nav.book">Book me</a>
     </nav>
@@ -228,7 +234,7 @@
 <!-- ===== COURSES ===== -->
 <section class="courses" id="courses">
   <div class="courses-inner">
-    <div class="courses-text">
+    <div class="courses-text" id="course-weekly">
       <p class="eyebrow eyebrow-light" data-i18n="courses.eyebrow">Learn with Moussa</p>
       <h2 data-i18n="courses.title">Djembé course in Gent</h2>
       <p data-i18n="courses.desc">Weekly group lessons for beginners and experienced players alike, at De Wolk in Gent. No prior experience needed for the beginners' hour — djembés are provided.</p>
@@ -241,15 +247,10 @@
     </div>
   </div>
 
-  <div class="courses-private">
+  <div class="courses-private" id="course-private">
     <p class="eyebrow eyebrow-light" data-i18n="private.eyebrow">On location</p>
     <h3 data-i18n="private.title">Private djembé workshop</h3>
     <p data-i18n="private.desc">Bring the drum circle to you — a hands-on djembé workshop at your event, company or school. Tailored to the group, no experience needed, all instruments provided.</p>
-    <div class="courses-private-tags">
-      <span data-i18n="private.tag1">Companies</span>
-      <span data-i18n="private.tag2">Schools</span>
-      <span data-i18n="private.tag3">Events</span>
-    </div>
     <a href="#contact" class="btn btn-ghost" data-i18n="private.cta">Book a workshop →</a>
   </div>
 </section>
