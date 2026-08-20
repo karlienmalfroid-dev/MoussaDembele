@@ -337,6 +337,18 @@ p{margin:0 0 1em;}
 }
 .card-link:hover{color:var(--rope);}
 .card-video{padding:0 20px 14px;}
+.card-video-list{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  padding:0 20px 14px;
+}
+.card-video-list video{
+  width:100%;
+  aspect-ratio:16/9;
+  border-radius:var(--radius);
+  background:var(--ink);
+}
 
 /* ================= YELEMANI TRIO (wide project card) ================= */
 .project-card-wide{grid-column:1 / -1;}
